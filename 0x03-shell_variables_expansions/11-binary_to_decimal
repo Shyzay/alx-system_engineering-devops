@@ -1,0 +1,2 @@
+#!/bin/bash
+echho $((2#$BINARY))
